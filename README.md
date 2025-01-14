@@ -31,11 +31,16 @@ cd HPGT_WSCOD
 
 
 # Pretrained model
-* Pretrained model: [Google Drive](https://drive.google.com/drive/folders/1_2mkcbnvxBapYc2cCqF7GZrxcVJpKCAU?usp=sharing)
+The pretrained model weights can be found below:
+* Segment Anything (SAM): [SAM](https://drive.google.com/drive/folders/1_2mkcbnvxBapYc2cCqF7GZrxcVJpKCAU?usp=sharing)
+* Grouding DINO (GD): [GroundingDino](https://drive.google.com/drive/folders/1_2mkcbnvxBapYc2cCqF7GZrxcVJpKCAU?usp=sharing)
+* CLIP (CLIP): [CLIP](https://drive.google.com/drive/folders/1_2mkcbnvxBapYc2cCqF7GZrxcVJpKCAU?usp=sharing)
+* DINO ViT (ViT): [DINO-ViT](https://drive.google.com/drive/folders/1_2mkcbnvxBapYc2cCqF7GZrxcVJpKCAU?usp=sharing)
 
 
 
-# Results
+# Trained Model and Results
+* Trained model weights: [Google Drive](https://drive.google.com/drive/folders/1_2mkcbnvxBapYc2cCqF7GZrxcVJpKCAU?usp=sharing)
 * CAMO: [Google Drive](https://drive.google.com/drive/folders/1JmCMew0MGBprrHAb5aQ9jmTfGhKOADBE?usp=sharing)
 * CHAMELEON: [Google Drive](https://drive.google.com/drive/folders/1AKXaK74qqPKndneXjI95wVsMjrxmrisv?usp=sharing)
 * COD10K: [Google Drive](https://drive.google.com/drive/folders/19iSGWmLxOA2GzFP0s071OBwAALvPnXzX?usp=sharing)
