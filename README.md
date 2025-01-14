@@ -5,9 +5,6 @@
 Paper Link: [arxiv](https://arxiv.org/pdf/2501.06038)
 
 ![HPGT](./Image/HPGT.png)
-![Phase1](./Image/Phase1.png)
-![Phase2](./Image/Phase2.png)
-![Phase3](./Image/Phase3.png)
 
 # Prerequisites 
 - Python 3.6
