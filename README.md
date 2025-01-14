@@ -1,5 +1,8 @@
 # HPGT_WSCOD 
 # A Holistically Point-guided Text Framework for Weakly-Supervised Camouflaged Object Detection
+> Authors: Tsui Qin Mok*, Shuyong Gao*, Haozhe Xing, Miaoyang He, and Wenqiang Zhang (* joint first authors)
+
+Paper Link: [arxiv](https://arxiv.org/pdf/2501.06038)
 
 
 
