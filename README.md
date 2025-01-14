@@ -4,7 +4,7 @@
 
 Paper Link: [arxiv](https://arxiv.org/pdf/2501.06038)
 
-
+![HPGT](./Image/HPGT.png)
 
 # Prerequisites 
 - Python 3.6
@@ -24,6 +24,7 @@ cd HPGT_WSCOD
 
 
 # Download P2C-COD and TCOD Dataset
+![P2C-COD](./Image/P2C-COD.png)
 * Point supervised P2C-COD dataset: [Google Drive](https://drive.google.com/drive/folders/1zm8QLs2_sV3E-LEltWRsG2iflA_Tfv26?usp=sharing)
 * Text supervised TCOD dataset: [Google Drive](https://docs.google.com/spreadsheets/d/1rFq52foZamSHvRV9ZnxDW2tiFbyIC8Od/edit?usp=sharing&ouid=102988334467510152621&rtpof=true&sd=true)
 
@@ -39,3 +40,5 @@ cd HPGT_WSCOD
 * CHAMELEON: [Google Drive](https://drive.google.com/drive/folders/1AKXaK74qqPKndneXjI95wVsMjrxmrisv?usp=sharing)
 * COD10K: [Google Drive](https://drive.google.com/drive/folders/19iSGWmLxOA2GzFP0s071OBwAALvPnXzX?usp=sharing)
 * NC4K: [Google Drive](https://drive.google.com/drive/folders/1IWjzN1eeB5EnzgxlD7pe8trWC8HoCEqs?usp=sharing)
+
+![Qualitative Result](./Image/Performance.jpg)
