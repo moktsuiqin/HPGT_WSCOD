@@ -17,7 +17,7 @@ cd HPGT_WSCOD
 
 
 # Trained model
-* trained model: [google](https://drive.google.com/drive/folders/1_2mkcbnvxBapYc2cCqF7GZrxcVJpKCAU?usp=sharing)
+* Pretrained model: [google](https://drive.google.com/drive/folders/1_2mkcbnvxBapYc2cCqF7GZrxcVJpKCAU?usp=sharing)
 
 
 
